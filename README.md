@@ -41,7 +41,7 @@ leetcode
 interviewbit.com
 
 
-Database systems: The cow book.
+Database systems: The cow book. Readings in Database Systems (Stonebraker). Transaction Processing (Jim Gray). Principles of Database and knowledge-base Systems. Foundations of Databases. Database: Principles, Programming, Performance by Patrick O'Neil.
 Operating systems: The dinosaur book.
 
 Basic Math: Basic Mathematics (Serge Lang)
