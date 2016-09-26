@@ -46,6 +46,9 @@ Operating systems: The dinosaur book.
 
 Basic Math: Basic Mathematics (Serge Lang)
 Linear Algebra: David C. Lay
+http://chycho.blogspot.ca/2010/07/welcome-to-chychoblogspotcom-restoring.html#Introduction:
+Intro to higher math
+Math 1001
 
 UWBothell Data Mining notes
 
